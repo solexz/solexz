@@ -1,7 +1,7 @@
 
-<div>
-<img text-align="center" align="center" height="180px" alt="GIF" src="https://i.imgur.com/AflEm7k.gif" /> 
-</div>
+<p align="center">
+    <img align="center" alt="visitors" src="https://i.imgur.com/AflEm7k.gif"/>
+</p>
 
 
 
