@@ -1,4 +1,3 @@
-
 <p align="center">
     <img align="center" alt="visitors" src="https://i.imgur.com/AflEm7k.gif"/>
 </p>
