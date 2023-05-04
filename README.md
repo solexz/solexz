@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://i.imgur.com/AflEm7k.gif"/>
+    <img align="center" alt="visitors" width="250px" src="https://i.imgur.com/AflEm7k.gif"/>
 </p>
 <h4 align="center" ><b><i>"Ninguém entra em um mesmo rio uma segunda vez, pois quando isso acontece já não se é o mesmo, assim como as águas que já serão outras."</i></b></h4
 
