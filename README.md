@@ -1,8 +1,7 @@
 
 <br>
-<img align="center" height="180px" alt="GIF" src="https://i.imgur.com/AflEm7k.gif" />
-
 <p>
+<img align="center" height="180px" alt="GIF" src="https://i.imgur.com/AflEm7k.gif" />
   <h4 align="center" ><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
 <br>
