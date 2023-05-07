@@ -1,8 +1,13 @@
 <p align="center">
-    <img align="center" alt="visitors" width="250px" src="https://i.imgur.com/AflEm7k.gif"/>
+  <br>
+  <samp>
+    Hello there! I’m @solexz.
+    <br>"I'm just a virus, wanting to escape, from the programmers of life."<br>
+</samp>
+  
+ <div align="center">
+   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+ </div>  
 </p>
-<h4 align="center" ><b><i>"Ninguém entra em um mesmo rio uma segunda vez, pois quando isso acontece já não se é o mesmo, assim como as águas que já serão outras."</i></b></h4
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=solexz&bg_color=3d3846&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  
+---
